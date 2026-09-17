@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trisha</h1>
 
-<h3 align="center">AI & Machine Learning Engineer | Deep Learning • Computer Vision • Multimodal AI</h3>
+<h3 align="center">AI & Machine Learning Engineer | Deep Learning • Computer Vision </h3>
 
 <p align="center">
 Building and experimenting with intelligent systems, from deep learning models to modern AI applications.
