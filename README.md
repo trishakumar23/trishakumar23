@@ -1,9 +1,29 @@
 <h1 align="center">Hi 👋, I'm Trisha</h1>
-<h3 align="center">A Data Science and AI Masters student</h3>
 
-<h3 align="left"> Welcome to my Github! Here you will find a range of projects I have been working on. These projects include the use of the following technical skills: Python, SQL, R, Maching Learning, Deep learning, NLP  as well as Data Visualisation skills such as Tableau and Looker Studio</h3>
+<h3 align="center">AI & Machine Learning Engineer | Deep Learning • Computer Vision • Multimodal AI</h3>
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/trisha-kumar/ </h3>
-<p align="left">
+<p align="center">
+Building and experimenting with intelligent systems, from deep learning models to modern AI applications.
 </p>
+
+---
+
+### 👩‍💻 About Me
+
+I'm an AI and Machine Learning Engineer with 3+ years of experience working on applied AI and industrial R&D.
+
+My work has spanned **deep learning, computer vision, federated learning, and multimodal AI**, with a particular interest in taking research ideas and turning them into real-world AI systems.
+
+I've worked on projects including **embedded computer vision models, knowledge distillation, federated learning across distributed clients, and multimodal AI**.
+
+### 🛠️ Tech
+
+**Languages**
+Python • SQL
+
+**AI / ML**
+PyTorch • TensorFlow • Scikit-learn • OpenCV • Deep Learning • Computer Vision • NLP • Federated Learning • Multimodal AI • RAG
+
+**ML & Infrastructure**
+MLflow •
 
